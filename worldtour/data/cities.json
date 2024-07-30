@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "d4de",
+      "cityName": "Mikstat",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-07-19T06:22:35.139Z",
+      "notes": "",
+      "position": {
+        "lat": "51.51078150953439",
+        "lng": "18.00943447054694"
+      }
+    },
+    {
+      "id": "d229",
+      "cityName": "Massawa",
+      "country": "Eritrea",
+      "emoji": "🇪🇷",
+      "date": "2024-07-19T06:22:45.062Z",
+      "notes": "",
+      "position": {
+        "lat": "16.234312937974693",
+        "lng": "39.00992418531148"
+      }
+    },
+    {
+      "id": "e64b",
+      "cityName": "Rufisque",
+      "country": "Senegal",
+      "emoji": "🇸🇳",
+      "date": "2024-07-19T08:22:48.327Z",
+      "notes": "Niggas in senegal",
+      "position": {
+        "lat": "14.78602148406648",
+        "lng": "-17.260104766194864"
+      }
+    }
+  ]
+}
